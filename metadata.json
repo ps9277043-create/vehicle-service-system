@@ -1,0 +1,6 @@
+{
+  "name": "Vehicle Service & Fault Management System",
+  "description": "Comprehensive automotive service scheduling, OBD-II diagnostic fault tracking, technician workflow management, and fleet analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
